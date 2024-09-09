@@ -1,0 +1,21 @@
+{
+  "name": "chatly",
+  "version": "1.0.0",
+  "description": "web chatapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/Talha6891/chatly.git chatly"
+  },
+  "keywords": [
+    "web",
+    "chat",
+    "chatapp",
+    "webChat"
+  ],
+  "author": "Talha Manzoor",
+  "license": "MIT"
+}
